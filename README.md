@@ -4,18 +4,18 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-ferreira-b385131a2/">
+  <a href="https://www.linkedin.com/in/pedrolcsf/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Ferreira-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedrozez/gartic-clone">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedrolcsf/gartic-clone">
   
-  <a href="https://github.com/pedrozez/smvg/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrozez/gartic-clone">
+  <a href="https://github.com/pedrolcsf/gartic-clone/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrolcsf/gartic-clone">
   </a>
   
-  <a href="https://github.com/pedrozez/gartic-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrozez/gartic-clone">
+  <a href="https://github.com/pedrolcsf/gartic-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrolcsf/gartic-clone">
   </a>
 </p>
 
@@ -37,16 +37,16 @@ Technologies that I used to develop this system
 
 **Clone the project and access the folder**
 ```bash
-  $ git clone https://github.com/pedrozez/gartic-clone.git
+  $ git clone https://github.com/pedrolcsf/gartic-clone.git
 ```
 **Follow the steps below**
 ```bash
   # install the dependencies
-  $ yarn
+  $ npm i
 
   # initialize the server (open in http:localhost:3000)
-  $ node app.js
+  $ npm run start
 ```
 
 ---
-Made with ♥ by pedrozez :wave: [Get in touch!](https://www.linkedin.com/in/pedro-ferreira-b385131a2/)
+Made with ♥ by Pedro Ferreira :wave: [Get in touch!](https://www.linkedin.com/in/pedrolcsf/)
